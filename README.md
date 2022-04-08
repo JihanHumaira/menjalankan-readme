@@ -2,7 +2,7 @@
 
 cara menjalankan readme
 
-pwd (posisi)
+''pwd (posisi)'' 
 ls
 cd (kuliah)
 git clone (ssh)
